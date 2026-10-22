@@ -223,12 +223,12 @@ The biggest SnapTune update yet — redesigned UI, improved performance, smarter
                 {
                     name: "SnapTune-v2.0.0.apk",
                     size: 27398090,
-                    browser_download_url: "https://github.com/farhanansari888/SnapTune/releases/download/v2.0.0/SnapTune-v2.0.0.apk"
+                    browser_download_url: "https://github.com/ansarixfarhan/SnapTune/releases/download/v2.0.0/SnapTune-v2.0.0.apk"
                 },
                 {
                     name: "SnapTune.apk",
                     size: 27398090,
-                    browser_download_url: "https://github.com/farhanansari888/SnapTune/releases/download/v2.0.0/SnapTune.apk"
+                    browser_download_url: "https://github.com/ansarixfarhan/SnapTune/releases/download/v2.0.0/SnapTune.apk"
                 }
             ]
         }
@@ -277,7 +277,7 @@ The biggest SnapTune update yet — redesigned UI, improved performance, smarter
     // 4. GitHub Releases API Fetching
 
     async function fetchReleases() {
-        const repoUrl = "https://api.github.com/repos/farhanansari888/SnapTune/releases";
+        const repoUrl = "https://api.github.com/repos/ansarixfarhan/SnapTune/releases";
         
         try {
             const res = await fetch(repoUrl, {

@@ -917,7 +917,7 @@ async function serveLandingPage(request: Request, type: string, id: string): Pro
                 <a href="https://snaptune.indevs.in/#downloads" class="nav-link">Downloads</a>
                 <a href="https://snaptune.indevs.in/privacy" class="nav-link">Privacy</a>
                 <a href="https://snaptune.indevs.in/donate" class="nav-link">Donate</a>
-                <a href="https://github.com/farhanansari888/SnapTune" target="_blank" class="nav-link">GitHub</a>
+                <a href="https://github.com/ansarixfarhan/SnapTune" target="_blank" class="nav-link">GitHub</a>
             </div>
             <div class="nav-actions">
                 <a id="nav-download-btn" href="https://snaptune.indevs.in/#downloads">
@@ -941,7 +941,7 @@ async function serveLandingPage(request: Request, type: string, id: string): Pro
             <a href="https://snaptune.indevs.in/#downloads" class="mobile-menu-link">Downloads</a>
             <a href="https://snaptune.indevs.in/privacy" class="mobile-menu-link">Privacy</a>
             <a href="https://snaptune.indevs.in/donate" class="mobile-menu-link">Donate</a>
-            <a href="https://github.com/farhanansari888/SnapTune" target="_blank" class="mobile-menu-link">GitHub</a>
+            <a href="https://github.com/ansarixfarhan/SnapTune" target="_blank" class="mobile-menu-link">GitHub</a>
             <div class="mobile-menu-actions">
                 <a href="https://snaptune.indevs.in/#downloads" class="btn-primary" style="width:100%;">
                     <span class="material-symbols-outlined">download</span>
@@ -1002,16 +1002,16 @@ async function serveLandingPage(request: Request, type: string, id: string): Pro
                     <p class="footer-desc">Enhanced Music Streaming for Android</p>
                     <p class="footer-author">
                         Made with <span style="color:#F4A8CF">♥</span> by
-                        <a href="https://github.com/farhanansari888" target="_blank">Farhan Ansari</a>.
+                        <a href="https://github.com/ansarixfarhan" target="_blank">Farhan Ansari</a>.
                         <span>Not affiliated with YouTube or Google.</span>
                     </p>
                 </div>
                 <div class="footer-chips-row">
-                    <a href="https://github.com/farhanansari888/SnapTune/releases" target="_blank" class="footer-chip">
+                    <a href="https://github.com/ansarixfarhan/SnapTune/releases" target="_blank" class="footer-chip">
                         <span class="material-symbols-outlined" style="font-size:16px">new_releases</span>
                         <span>Releases</span>
                     </a>
-                    <a href="https://github.com/farhanansari888/SnapTune" target="_blank" class="footer-chip">
+                    <a href="https://github.com/ansarixfarhan/SnapTune" target="_blank" class="footer-chip">
                         <span class="material-symbols-outlined" style="font-size:16px">code</span>
                         <span>GitHub</span>
                     </a>
@@ -1019,7 +1019,7 @@ async function serveLandingPage(request: Request, type: string, id: string): Pro
                         <span class="material-symbols-outlined" style="font-size:16px">storefront</span>
                         <span>Uptodown</span>
                     </a>
-                    <a href="https://github.com/farhanansari888/SnapTune/issues" target="_blank" class="footer-chip">
+                    <a href="https://github.com/ansarixfarhan/SnapTune/issues" target="_blank" class="footer-chip">
                         <span class="material-symbols-outlined" style="font-size:16px">support</span>
                         <span>Issues &amp; Support</span>
                     </a>
@@ -1034,7 +1034,7 @@ async function serveLandingPage(request: Request, type: string, id: string): Pro
                     <a href="https://snaptune.indevs.in/#downloads" class="footer-nav-link">Downloads</a>
                     <a href="https://snaptune.indevs.in/privacy" class="footer-nav-link">Privacy Policy</a>
                     <a href="https://snaptune.indevs.in/donate" class="footer-nav-link" style="color:var(--p);font-weight:600">Donate</a>
-                    <a href="https://github.com/farhanansari888/SnapTune" target="_blank" class="footer-nav-link">GitHub</a>
+                    <a href="https://github.com/ansarixfarhan/SnapTune" target="_blank" class="footer-nav-link">GitHub</a>
                 </div>
             </div>
         </div>
